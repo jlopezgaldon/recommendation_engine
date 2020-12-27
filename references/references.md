@@ -6,3 +6,8 @@ Jesse Vig, Shilad Sen, and John Riedl. 2012. The Tag Genome: Encoding Community 
 
 Nair, S. (2020, September 8). PySpark Recommender System with ALS | Towards Data Science. Medium. <https://towardsdatascience.com/build-recommendation-system-with-pyspark-using-alternating-least-squares-als-matrix-factorisation-ebe1ad2e7679>
 
+Bahri, N. (2020, January 28). Movie Lens Data Analysis Using PySpark [for beginners]. Medium. <https://medium.com/analytics-vidhya/movie-lens-data-analysis-using-pyspark-for-beginners-9c0f5f21eaf5>
+
+Cardellino, C. (2019, January 12). Procesando Datos con Spark (II) — Carga y limpieza de datos. Medium. <https://medium.com/@crscardellino/procesando-datos-con-spark-ii-carga-y-limpieza-de-datos-b15896f38cd0>
+
+Liao, K. (2018, November 19). Prototyping a Recommender System Step by Step Part 2: Alternating Least Square (ALS) Matrix Factorization in Collaborative Filtering. Medium. <https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-2-alternating-least-square-als-matrix-4a76c58714a1>
